@@ -1,7 +1,7 @@
 # Design guidelines
 
-Preserve all UX and Design materials for [Ominidi.org](https://www.ominidi.org)
-Materials is organized in this way:
+Preserve all UX and Design materials for [Ominidi.org](https://www.ominidi.org)  
+Material is organized in this way:
 
 | Folder         |Content           |
 |:----------------|:---------------|
